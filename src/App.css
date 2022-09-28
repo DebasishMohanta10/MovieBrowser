@@ -1,0 +1,29 @@
+.header{
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .details{
+  text-align: center;
+}
+.header .header-img{
+  width: 200px;
+}
+.btn-lg{
+  padding-bottom: 10px;
+  border-radius: 4px;
+  font-weight: 700;
+}
+
+.header .details{
+  width: 60%;
+}
+.header .details p{
+  font-size: 22px;
+}
+.movie-title{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
